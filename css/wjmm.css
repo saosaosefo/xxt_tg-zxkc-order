@@ -1,0 +1,32 @@
+@charset "utf-8";
+/*样式*/
+#first{ width:320px; height:95px; margin:auto; overflow:hidden;}
+#dh{ width:320px; height:34px; margin:auto; background:-webkit-linear-gradient(bottom,#7D9F0D,#5c7c00); overflow:hidden;}
+.dhA1{ width:68px; height:34px; line-height:34px; text-align:center; float:left; margin-left:-5px; display:block; display:inline;}
+.dhA2{ width:64px; height:34px; line-height:34px; text-align:center; float:left; display:block; display:inline;}
+.dhA3{ width:50px; height:34px; line-height:34px; text-align:left; float:right; margin-right:4px; overflow:hidden; display:block; display:inline;}
+.banner{ width:320px; height:185px; margin:auto; overflow:hidden;}
+.second{ width:320px; height:315px; margin:auto; position:relative; background-color:#fff;}
+.second1{ width:320px; height:325px; margin:auto; position:relative; background-color:#fff;}
+.second2{ width:320px; height:350px; margin:auto; position:relative; background-color:#fff;}
+.sdYhdl{ width:86px; height:94px; position:absolute; overflow:hidden;}
+.sdWjmm{ width:85px; height:24px; line-height:24px; position:absolute; top:84px; left:10px; display:block;}
+.sdBox0{ width:202px; height:36px; left:101px; position:absolute; overflow:hidden;}
+.sdBox1{ top:20px;}
+.sdBox1Input{ width:160px; height:32px; line-height:32px; font:1.5rem "宋体"; padding-left:5px; color:#444; border:0px; top:1px; left:36px; position:absolute; z-index:2; background:none; display:block;}
+.sdBox2{ top:68px;}
+.sdBox3{ top:116px;}
+.sdBox4{ top:164px;}
+.sdBox5{ width:203px; top:212px;}
+.sdBox6{ width:203px; top:260px;}
+.sdBox00{ width:202px; height:36px; left:59px; position:absolute; overflow:hidden;}
+.sdBox7{ top:35px;}
+.sdBox8{ top:90px;}
+.sdBox9{ top:145px;}
+.sdBox10{ width:203px; top:200px;}
+.sdBox11{ width:203px; top:255px;}
+.sdBox12{ width:203px; top:230px;}
+.sdBox13{ width:203px; top:280px;}
+.sdBox3Button{ width:203px; height:36px; border:0px; position:absolute; z-index:2; cursor:pointer; background:none;}
+.sdFkjy{ width:201px; height:180px; position:absolute; top:35px; left:60px;}
+.sdFkjyText{ width:185px; height:164px; font:1.5rem "宋体"; color:#333; line-height:25px; position:absolute; z-index:2; top:6px; left:6px; border:0px; background:none; display:block;}

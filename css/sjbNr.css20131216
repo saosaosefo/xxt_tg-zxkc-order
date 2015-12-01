@@ -1,0 +1,5 @@
+@charset "utf-8";
+/*样式*/
+.ftImg{ width:296px; height:191px; position:relative; margin:10px auto 0px auto; background-color:#fff;}
+.ftImgTp{ width:284px; height:179px; position:absolute; z-index:2; top:6px; left:6px;}
+.first{ width:278px; height:auto; font:1.6rem "宋体"; color:#333; line-height:27px; margin:8px auto 0px auto; padding-left:3px; position:relative; background-color:#fff; overflow:hidden;}
